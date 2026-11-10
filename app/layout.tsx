@@ -9,6 +9,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="dark">
       <head>
+        <meta name="yandex-verification" content="3d3ce1fa0b692428" />
         <title>Volk Casino официальный сайт — играть в Волк Казино онлайн, рабочее зеркало</title>
         <meta
           name="description"
